@@ -1,0 +1,7 @@
+{
+  "name": "deepL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
